@@ -20,7 +20,7 @@ function Navbar() {
     <nav className="bg-[#0F1923] py-3 md:py-4 fixed w-full top-0 z-50 shadow-lg">
       <div className="container mx-auto px-4 flex flex-col md:flex-row md:items-center gap-4 md:gap-0">
         <div className="flex justify-between items-center">
-          <Link to="/" className="text-white text-xl md:text-2xl font-bold">BRUNNO STORE</Link>
+          <Link to="/" className="text-white text-xl md:text-2xl font-bold">VALORANT POINTS STORE</Link>
           {user && (
             <span className="text-white text-sm md:hidden">Olá, {user.displayName}</span>
           )}
