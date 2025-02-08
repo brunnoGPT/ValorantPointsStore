@@ -18,7 +18,7 @@ const mockReviews: Review[] = [
     userName: 'Gabriel Silva',
     rating: 5,
     comment: 'Serviço excelente! VP creditado em menos de 5 minutos após o pagamento. Muito satisfeito com a rapidez.',
-    date: '2024-03-15',
+    date: '2025-02-07',
     verified: true
   },
   {
@@ -26,7 +26,7 @@ const mockReviews: Review[] = [
     userName: 'Lucas Oliveira',
     rating: 5,
     comment: 'Comprei 2050 VP e foi super tranquilo. Preço justo e entrega instantânea. Recomendo muito!',
-    date: '2024-03-14',
+    date: '2025-01-14',
     verified: true
   },
   {
@@ -34,7 +34,7 @@ const mockReviews: Review[] = [
     userName: 'Ana Costa',
     rating: 5,
     comment: 'Melhor site para comprar VP! Já é a terceira vez que compro aqui e nunca tive problemas.',
-    date: '2024-03-13',
+    date: '2024-12-28',
     verified: true
   },
   {
@@ -42,7 +42,7 @@ const mockReviews: Review[] = [
     userName: 'Pedro Santos',
     rating: 4,
     comment: 'Processo bem simples e rápido. Só demorou um pouquinho mais que o esperado, mas nada grave.',
-    date: '2024-03-12',
+    date: '2024-11-12',
     verified: true
   },
   {
@@ -50,7 +50,7 @@ const mockReviews: Review[] = [
     userName: 'Mariana Alves',
     rating: 5,
     comment: 'Comprei VP para presentear meu namorado e foi perfeito! Super fácil de usar e preço ótimo.',
-    date: '2024-03-11',
+    date: '2024-10-29',
     verified: true
   },
   {
@@ -58,7 +58,7 @@ const mockReviews: Review[] = [
     userName: 'João Victor',
     rating: 5,
     comment: 'Site muito confiável! Paguei via PIX e os pontos caíram na hora. Voltarei a comprar com certeza.',
-    date: '2024-03-10',
+    date: '2024-10-03',
     verified: true
   },
   {
@@ -66,7 +66,7 @@ const mockReviews: Review[] = [
     userName: 'Isabela Lima',
     rating: 5,
     comment: 'Adorei o atendimento e a rapidez. Os preços são realmente mais em conta que outros sites.',
-    date: '2024-03-09',
+    date: '2024-09-22',
     verified: true
   },
   {
@@ -74,7 +74,7 @@ const mockReviews: Review[] = [
     userName: 'Rafael Mendes',
     rating: 4,
     comment: 'Bom serviço, entrega rápida. Só sugiro melhorarem a interface do site para ficar ainda melhor.',
-    date: '2024-03-08',
+    date: '2024-09-15',
     verified: true
   },
   {
@@ -82,7 +82,7 @@ const mockReviews: Review[] = [
     userName: 'Thiago Costa',
     rating: 5,
     comment: 'Comprei 5350 VP e foi tudo perfeito! Preço excelente e suporte muito atencioso.',
-    date: '2024-03-07',
+    date: '2024-09-10',
     verified: true
   },
   {
@@ -90,7 +90,7 @@ const mockReviews: Review[] = [
     userName: 'Beatriz Rocha',
     rating: 5,
     comment: 'Maravilhoso! Comprei pela primeira vez e superou minhas expectativas. Super recomendo!',
-    date: '2024-03-06',
+    date: '2024-09-06',
     verified: true
   }
 ];
