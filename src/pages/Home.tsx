@@ -126,7 +126,7 @@ function Home() {
       {/* Footer */}
       <footer className="bg-[#1F2326] py-6 md:py-8">
         <div className="container mx-auto px-4 text-center text-sm md:text-base text-gray-400">
-          <p>© 2025 Brunno Store. Não afiliado à Riot Games.</p>
+          <p>© 2025 Valorant Points Store. Não afiliado à Riot Games.</p>
         </div>
       </footer>
     </div>
